@@ -1,6 +1,25 @@
-Cloud-Based Health Information Management System (CBHIMS)
- 	Executive Summary
-Healthcare delivery in developing communities faces significant challenges due to fragmented information systems, paper-based records, and poor inter-facility communication. The Cloud-Based Health Information Management System (CBHIMS) addresses these critical issues by leveraging cloud computing infrastructure and Wide Area Network (WAN) technologies to create a unified, accessible, and secure platform for managing patient health records across multiple healthcare facilities.
+
+ Cloud-Based Health Information Management System (CBHIMS)
+
+🎥 Video Demonstration
+
+Watch the complete system demonstration:
+
+**[📺 Click Here to Watch Full CBHIMS Demo](://drive.google.com/file/d/1M4MNuN7E2PSfq8HqVEodlS1vVyrbaUU3/view?usp=drive_linkRIVE-LINK-HERE)**
+
+Video Contents:**
+- Introduction and project overview
+- Interactive web-based simulation (Patient registration, Medical encounters, Prescriptions, Lab tests)
+- NS-3 network simulation (Terminal output, NetAnim visualization, Performance analysis)
+- Results and conclusion
+
+Duration:** 6 minutes
+
+---
+
+## Executive Summary
+
+   Healthcare delivery in developing communities faces significant challenges due to fragmented information systems, paper-based records, and poor inter-facility communication. The Cloud-Based Health Information Management System (CBHIMS) addresses these critical issues by leveraging cloud computing infrastructure and Wide Area Network (WAN) technologies to create a unified, accessible, and secure platform for managing patient health records across multiple healthcare facilities.
 This comprehensive document presents a complete design and implementation strategy for CBHIMS, demonstrating how modern cloud technologies and network infrastructure can transform healthcare delivery in resource-constrained environments. The system enables real-time data sharing, improves clinical decisionmaking, reduces operational costs, and ultimately enhances patient outcomes through better continuity of care.
  
  	Table of Contents 
@@ -678,3 +697,4 @@ Ultimately, CBHIMS is about improving health outcomes and saving lives by ensuri
 Author: [NTUBE KELLY-JOY NGUCHEDE]
 Matricule: ICTU20233961
 Project: Cloud-Based Health Information Management System (CBHIMS)
+
